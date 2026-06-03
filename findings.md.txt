@@ -1,0 +1,23 @@
+# Investigation Findings
+
+## Alert
+
+Multiple failed login attempts detected.
+
+## Source IP
+
+192.168.1.15
+
+## Observation
+
+Three failed login attempts occurred within a short period.
+
+## MITRE ATT&CK
+
+T1110 - Brute Force
+
+## Recommendation
+
+- Enable MFA
+- Monitor the source IP
+- Lock accounts after repeated failures
