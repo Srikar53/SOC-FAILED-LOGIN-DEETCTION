@@ -20,4 +20,4 @@ T1110 - Brute Force
 
 - Enable MFA
 - Monitor the source IP
-- Lock accounts after repeated failures
+- Lock accounts after repeated failure
